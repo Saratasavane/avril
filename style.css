@@ -1,0 +1,54 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+.banner
+{
+    width: 100%;
+}
+.banner img
+{
+    width: 100%;
+}
+.rooms
+{
+    background: #f7f7f7;
+}
+.rooms img
+{
+    width: 50px;
+}
+
+/* FOOTER */
+
+footer 
+{
+    height: 400px;
+    background-color: darkgray;
+}
+.copyright
+{
+    text-align:center;
+    font-weight: bold;
+    padding-bottom:45px;
+}
+.copy
+{
+    padding-top: 5px;
+    width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
